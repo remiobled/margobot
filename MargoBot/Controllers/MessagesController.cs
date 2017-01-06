@@ -62,6 +62,9 @@ namespace MargoBot
                             case ("C++"):
                                 answer += "Rien de très intéressant à te proposer en C/C++, mais nos commerciaux y travaillent. Reviens régulièrement pour avoir des nouvelles.\n";
                                 break;
+                            case("F#"):
+                                answer += "Les meilleurs missions sont en F#. Il y a des missions uniquement pour les meilleurs\n";
+                                break;
                             default:
                                 answer += "C'est une demande trop précise, appelle directement Maïlys.\n";
                                 break;
